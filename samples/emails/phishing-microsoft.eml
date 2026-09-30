@@ -1,0 +1,18 @@
+From: "Microsoft 365 Security" <security@micros0ft-support.example>
+Reply-To: account-team@secure-mailbox.example
+Return-Path: <bounce@mailer-xyz.example>
+To: lena.wagner@nordlicht.example
+Subject: URGENT: Your password expires today
+Date: Tue, 29 Sep 2026 08:14:00 +0200
+Authentication-Results: mx.nordlicht.example; spf=fail smtp.mailfrom=mailer-xyz.example; dkim=none; dmarc=fail header.from=micros0ft-support.example
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html><body>
+<p>Dear user,</p>
+<p>We detected unusual activity in your account. Your password expires today.
+You must verify your account immediately or it will be suspended within 24 hours.</p>
+<p><a href="http://login.micros0ft-support.example/verify?id=88213">https://account.microsoft.com/security</a></p>
+<p>Alternative link: http://bit.ly/3xYz12</p>
+<p>Microsoft 365 Security Team</p>
+</body></html>

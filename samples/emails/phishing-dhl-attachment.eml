@@ -1,0 +1,47 @@
+From: "DHL Paketdienst" <zustellung@dhl-paket-info.example>
+To: lena.wagner@nordlicht.example
+Subject: Ihr Paket konnte nicht zugestellt werden
+Date: Tue, 29 Sep 2026 10:02:00 +0200
+Authentication-Results: mx.nordlicht.example; spf=softfail smtp.mailfrom=dhl-paket-info.example; dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="XYZ123"
+
+--XYZ123
+Content-Type: text/plain; charset=utf-8
+
+Hallo,
+
+Ihr Paket konnte nicht zugestellt werden. Bitte bestätigen Sie sofort Ihre Adresse,
+sonst wird die Sendung innerhalb von 24 Stunden zurückgeschickt. Die Rechnung finden Sie im Anhang.
+
+Ihr DHL Team
+--XYZ123
+Content-Type: application/octet-stream; name="Rechnung_2026.pdf.exe"
+Content-Disposition: attachment; filename="Rechnung_2026.pdf.exe"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBhIGZha2UgYXR0YWNobWVudA==
+--XYZ123--From: "DHL Paketdienst" <zustellung@dhl-paket-info.example>
+To: lena.wagner@nordlicht.example
+Subject: Ihr Paket konnte nicht zugestellt werden
+Date: Tue, 29 Sep 2026 10:02:00 +0200
+Authentication-Results: mx.nordlicht.example; spf=softfail smtp.mailfrom=dhl-paket-info.example; dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="XYZ123"
+
+--XYZ123
+Content-Type: text/plain; charset=utf-8
+
+Hallo,
+
+Ihr Paket konnte nicht zugestellt werden. Bitte bestätigen Sie sofort Ihre Adresse,
+sonst wird die Sendung innerhalb von 24 Stunden zurückgeschickt. Die Rechnung finden Sie im Anhang.
+
+Ihr DHL Team
+--XYZ123
+Content-Type: application/octet-stream; name="Rechnung_2026.pdf.exe"
+Content-Disposition: attachment; filename="Rechnung_2026.pdf.exe"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBhIGZha2UgYXR0YWNobWVudA==
+--XYZ123--

@@ -1,0 +1,15 @@
+From: "IT Helpdesk" <helpdesk@nordlicht.example>
+Return-Path: <helpdesk@nordlicht.example>
+To: lena.wagner@nordlicht.example
+Subject: Wi-Fi maintenance on Saturday
+Date: Mon, 28 Sep 2026 15:30:00 +0200
+Authentication-Results: mx.nordlicht.example; spf=pass smtp.mailfrom=nordlicht.example; dkim=pass header.d=nordlicht.example; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hi Lena,
+
+the office Wi-Fi will be offline on Saturday from 8:00 to 10:00 for maintenance.
+You do not need to do anything. Details: https://www.nordlicht.example/it-news
+
+Your IT team
