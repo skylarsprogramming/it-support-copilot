@@ -1,0 +1,4 @@
+[
+  { "Category": "Network", "Check": "DNS", "Status": "Red", "Detail": "Website names cannot be resolved with DNS server 10.255.255.1. Websites will not open although the network is connected." },
+  { "Category": "Network", "Check": "Internet", "Status": "Red", "Detail": "The internet is not reachable." }
+]
