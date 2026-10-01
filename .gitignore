@@ -1,0 +1,6 @@
+# real reports can contain details about your laptop
+reports/
+# never commit secrets
+.env
+*.key
+*.secret

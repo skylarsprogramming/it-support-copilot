@@ -1,0 +1,5 @@
+[
+  { "Category": "Security", "Check": "Defender", "Status": "Red", "Detail": "Microsoft Defender real-time protection is off." },
+  { "Category": "Security", "Check": "Firewall", "Status": "Red", "Detail": "The firewall is off for: Public." },
+  { "Category": "Security", "Check": "BitLocker", "Status": "Red", "Detail": "Drive C: is not encrypted. If the laptop is stolen, all data can be read." }
+]
